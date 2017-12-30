@@ -1,7 +1,7 @@
 # Extra-Rc
 Extra Right Click Options for Dayz Epoch 1.0.6.2.
 
-Credit to maca134 for the original version of this mod.
+Credit to [maca134](https://github.com/maca134) for the original version of this mod.
 
 I primarily uploaded this mod for use with WAI, but it can be configured to use right click actions on nearly any item in your inventory. An example of the configuration is provided in extra_rc.hpp.
 
